@@ -1,7 +1,7 @@
 function saludar()
 {
-    let saludar= prompt("escribe tu nombre");
-    alert("hola" + saludar + "suerte en tu examen");
+    let saludar= prompt( "escribe tu nombre" );
+    alert( " hola " + saludar + " suerte en tu examen " );
 }
 function calcularCuadrado()
 {
